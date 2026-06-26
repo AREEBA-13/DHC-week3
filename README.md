@@ -22,15 +22,14 @@ FlowState is themed around warmth, focus, and elegance:
 
 ## 📸 Screenshots
 
-*Place your screenshots in the [screenshots/](file:///d:/DHC-Internship-flutter/week_3/screenshots/) folder (e.g. `home_light.png`, `home_dark.png`, `add_task.png`, `task_details.png`) and they will display here:*
-
 | Light Mode Dashboard | Dark Mode Dashboard |
 |:---:|:---:|
-| <img src="screenshots/home_light.png" width="320" alt="Home Screen Light Mode" /> | <img src="screenshots/home_dark.png" width="320" alt="Home Screen Dark Mode" /> |
+| <img src="screenshots/light_home.jpeg" width="320" alt="Home Screen Light Mode" /> | <img src="screenshots/dark_home.jpeg" width="320" alt="Home Screen Dark Mode" /> |
 
-| Add Task Form | Task Details & Inline Edit |
-|:---:|:---:|
-| <img src="screenshots/add_task.png" width="320" alt="Add Task Form" /> | <img src="screenshots/task_details.png" width="320" alt="Task Details & Edit View" /> |
+| Add Task Form | Task Details & Inline Edit | Calendar Date Picker |
+|:---:|:---:|:---:|
+| <img src="screenshots/add_task.jpeg" width="280" alt="Add Task Form" /> | <img src="screenshots/task_details.jpeg" width="280" alt="Task Details & Edit View" /> | <img src="screenshots/calender.jpeg" width="280" alt="Calendar Date Picker" /> |
+
 
 ---
 
