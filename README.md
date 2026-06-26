@@ -69,32 +69,3 @@ The Android compilation is fully complete. You can download and install the pre-
 ```bash
 flutter install
 ```
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-*   [Flutter SDK installed](https://docs.flutter.dev/get-started/install)
-*   An Android emulator, iOS simulator, or connected physical device.
-
-### Installation
-1. Clone this repository
-2. Navigate to project root:
-   ```bash
-   cd week_3
-   ```
-3. Fetch dependencies:
-   ```bash
-   flutter pub get
-   ```
-4. Run the code:
-   ```bash
-   flutter run
-   ```
-
-### Running Widget Tests
-Run the suite to verify compilation and router setups:
-```bash
-flutter test
-```
